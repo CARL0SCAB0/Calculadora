@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ecuaciones </string>
+    <string name="titulo">Calculadora de ecuaciones de segundo grado</string>
+    <string name="name">DIAZ SOTO CARLOS ANTONIO</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="value_a">Ingresa el valor de a</string>
+    <string name="value_b">Ingresa el valor de b</string>
+    <string name="value_c">Ingresa el valor de c</string>
+
+</resources>
